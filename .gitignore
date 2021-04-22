@@ -1,0 +1,11 @@
+data
+
+*.swp
+*.swo
+
+
+# Ignore dev db file
+*.sql
+
+# vscode
+.vscode
